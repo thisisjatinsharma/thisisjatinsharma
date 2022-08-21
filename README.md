@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on KSK 
-- 🌱 I’m currently learning node js
+- 🌱 I’m currently learning react js
 - 👯 I’m looking to collaborate on youtube
 - 🤔 I’m looking for help with velocityX  documentation
 - 💬 Ask me about any tec related stuff
